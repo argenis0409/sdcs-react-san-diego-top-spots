@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import TopSpot from './topspot';
+import TopSpot from './TopSpot';
 
 class App extends Component {
   constructor(props) {
