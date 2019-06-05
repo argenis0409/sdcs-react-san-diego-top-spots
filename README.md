@@ -1,0 +1,1 @@
+san diego top spots
